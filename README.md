@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MUK94
 - 👀 I’m interested in JavaScript, PHP/Laravel and Python
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Django projects for Intermediate developers
+- 🌱 I’m currently Mastering PHP/Laravel
+- 💞️ I’m looking to collaborate on PHP projects for Intermediate developers
 - 📫 How to reach me ... twitter @MouctarDaka
 
 <!---
