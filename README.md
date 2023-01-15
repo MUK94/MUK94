@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MUK94
+- 👋 Hi, I’m Mouctar
 - 👀 I’m interested in JavaScript, PHP/Laravel and Python
 - 🌱 I’m currently Mastering PHP/Laravel
 - 💞️ I’m looking to collaborate on PHP projects for Intermediate developers
