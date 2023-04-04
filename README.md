@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mouctar
-- 👀 I’m interested in JavaScript, PHP/Laravel and Python
+- 👀 I’m interested in JavaScript and PHP/Laravel 
 - 🌱 I’m currently Mastering PHP/Laravel
 - 💞️ I’m looking to collaborate on PHP projects for Intermediate developers
 - 📫 How to reach me ... twitter @MouctarDaka
