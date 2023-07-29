@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mouctar
 # 👀 I’m interested in Python, Django, AWS, Docker, and APIs
-# 💞️ Collaborate on Python projects for junior and intermediate developers
+# 💞️ Collaborate with junior and intermediate developers
 # 📫 How to reach me ... Twitter @MouctarDaka
 
 <!---
