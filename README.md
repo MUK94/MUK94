@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Mouctar
-- 👀 I’m interested in Python
-- 🌱 I’m Mastering Python
-- 💞️ I’m looking to collaborate on Python projects for junior and intermediate developers
-- 📫 How to reach me ... Twitter @MouctarDaka
+# 👋 Hi, I’m Mouctar
+# 👀 I’m interested in Python, Django, AWS, Docker, and APIs
+# 💞️ I’m looking to collaborate on Python projects for junior and intermediate developers
+# 📫 How to reach me ... Twitter @MouctarDaka
 
 <!---
 MUK94/MUK94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
