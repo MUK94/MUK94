@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Mouctar a Full-stack Web Developer
-# 👀 My Tech stack include C#, .Net, PHP/Laravel, Python, Django, AWS, Docker, and APIs
+# 👀 My Tech stack include Python, Django, PHP/Laravel, and APIs
 # 📫 How to reach me ... Twitter @MouctarDaka
 
 <!---
