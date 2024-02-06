@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mouctar a Full-stack Web Developer
+# 👋 Hi, I’m Mouctar a Software Developer
 # 👀 My Tech stack include Python, Django and APIs
 # 📫 How to reach me ... Twitter @MouctarDaka
 
