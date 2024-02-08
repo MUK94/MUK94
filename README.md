@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Mouctar a Software Developer
-# 👀 My Tech stack include Python, Django and APIs
+# 👀 My Tech stack includes Python, Django, Laravel and APIs
 # 📫 How to reach me ... Twitter @MouctarDaka
 
 <!---
